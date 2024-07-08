@@ -4,7 +4,7 @@ body {
 
 p {
  padding-left: 10px;
- padding-right: 0px;
+ padding-right: auto;
 }
 
 ul {
