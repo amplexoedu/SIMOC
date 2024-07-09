@@ -1,6 +1,4 @@
-body {
- padding-left: 20px;
-}
+body {padding: 40px;}
 
 h4 {padding-top: 30px;}
 
@@ -9,9 +7,7 @@ p {
  padding-right: auto;
 }
 
-ul {
- padding-left: 5%;
-}
+ul {padding-left: 5%;}
 
 table, th, td {
  border: 1px solid black;
@@ -19,6 +15,4 @@ table, th, td {
  align-items: center;
 }
 
-div {
- padding-left: 100px;
-}
+div {padding-left: 100px;}
