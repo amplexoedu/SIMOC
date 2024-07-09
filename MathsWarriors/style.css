@@ -1,4 +1,7 @@
-body {padding: 40px;}
+body {
+    padding: 40px;
+    padding-right: 90px;
+}
 
 h4 {padding-top: 30px;}
 
