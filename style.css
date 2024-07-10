@@ -2,9 +2,21 @@
 
 body {
     padding: 20px;
+    background-color: black;
+    color: greenyellow
 }
 
 li {
     list-style-type: square;
     margin-bottom: 10px;
 }
+
+a {
+    color: cyan;
+}
+
+footer, a {
+    text-align: center;
+    color: rgb(255, 105, 105);
+    padding-top: 100px;
+  }
