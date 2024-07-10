@@ -3,3 +3,8 @@
 body {
     padding: 20px;
 }
+
+li {
+    list-style-type: square;
+    margin-bottom: 10px;
+}
