@@ -11,7 +11,9 @@ li {
     margin-bottom: 10px;
 }
 
-footer, a {
+a {color: rgb(255, 105, 105);}
+
+footer {
     text-align: center;
     color: rgb(255, 105, 105);
     padding-top: 100px;
